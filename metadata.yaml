@@ -1,0 +1,32 @@
+_repo: The-Blue-Grass-Region-of-Kentuckyand-other-Kentucky-Articles_43888
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43888-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: ''
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F396'
+- !lcsh 'Kentucky -- Social life and customs'
+- !lcsh 'Kentucky -- Description and travel'
+tableOfContents: The Blue-grass region -- Uncle Tom at home -- County court day in
+  Kentucky -- Kentucky fairs -- A home of the silent brotherhood -- Homesteads of
+  the Blue-grass -- Through Cumberland Gap on horseback -- Mountain passes of the
+  Cumberland.
+title: The Blue-Grass Region of Kentucky, and Other Kentucky Articles
+url: http://www.gutenberg.org/ebooks/43888
